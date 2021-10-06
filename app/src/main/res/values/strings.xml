@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Censo2022</string>
+    <string name="ok">CENSAR</string>
+    <string name="cancel">NO</string>
+    <string-array name="generos">
+        <item>HOMBRE</item>
+        <item>MUJER</item>
+    </string-array>
+</resources>
